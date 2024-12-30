@@ -1,5 +1,6 @@
-//Qno.1
-//id, name ,roll, assress and marks and marks between 35 to 50 of 5 student
+/* To input 5 student id,Name,Roll_number,address and marks and display the data of
+student scoring marks between 30 to 50
+*/
 #include<stdio.h>
 struct student{
     int id;
